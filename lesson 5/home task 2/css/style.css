@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  border: 1px solid;
+  border-radius: 10px;
+  width: 380px;
+}
+
+.boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+
+}
+
+.box h3 {
+  color: #1560bd;
+  padding: 10px 0 15px 20px;
+}
+
+.box p {
+  color: #A2A2A2;
+  padding: 20px 5px 5px 20px;
+}
+
+img {
+  padding: 20px;
+}

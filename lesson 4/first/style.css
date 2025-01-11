@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-title {
+  text-align: center;
+  color: #1560bd;
+}
+
+.head {
+  color: #1560bd;
+  text-decoration: underline blue;
+  margin: 10px 0;
+}
+
+.box {
+  background-color: #F2F7FF;
+  display: inline-block;
+  width: 400px;
+  height: 140px;
+  margin: 20px 20px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.parent {
+  text-align: center;
+}

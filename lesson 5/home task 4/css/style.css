@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.links {
+  text-align: center;
+  margin-right: 100px;
+}
+
+a {
+  padding: 10px;
+  color: azure;
+}
+
+.main {
+  height: 650px;
+}
+
+.box {
+  margin: auto;
+  margin-top: 237px;
+  color: azure;
+  text-align: left;
+  width: 50%;
+  margin-right: 210px;
+}
+
+.gs-button {
+  background-color: coral;
+  width: 100px;
+  height: 40px;
+  border: none;
+  color: azure;
+}
+
+.main p {
+  margin: 10px 0;
+}
+
+.boxes {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.boxs {
+  background-color: dimgray;
+  width: 500px;
+  margin: 20px;
+}
+
+.descraption-join {
+  text-align: center;
+
+}
+
+.boxs p {
+  padding: 16px;
+}

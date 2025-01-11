@@ -1,0 +1,104 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.logo {
+  font-family: monospace;
+  font-size: 40px;
+  color: white;
+}
+
+.box1 {
+  display: flex;
+  justify-content: space-between;
+
+  background-color: #1560bd;
+}
+
+.links {
+  display: flex;
+  gap: 70px;
+}
+
+.link {
+  color: white;
+  padding: top 10px;
+}
+
+.box2 {
+  background-image: linear-gradient(rgba 0, 0, 0, 0.5) url(./image/51706102796.jpg);
+}
+
+.box {
+  border: 1px solid;
+  border-radius: 10px;
+  width: 380px;
+}
+
+.boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 50px;
+}
+
+.box h3 {
+  color: #1560bd;
+  padding: 10px 0 15px 20px;
+}
+
+.box p {
+  color: #A2A2A2;
+  padding: 20px 5px 5px 20px;
+}
+
+img {
+  padding: 20px;
+}
+
+.box4 h3 {
+  color: #1560bd;
+  padding: 15px;
+}
+
+.box4 p {
+  color: #424242;
+  padding: 5px 5px 10px 15px;
+}
+
+.box4 {
+  border: 0px solid;
+  border-radius: 5px;
+  width: 500px;
+  background-color: #F2F7FF;
+  height: 150px;
+}
+
+.boxa {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin: 50px;
+}
+
+.QK-button {
+  background-color: gold;
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+  border: none;
+  border-radius: 2px;
+  margin: 10px;
+  font-family: monospace;
+}
+
+a {
+  margin: 10px;
+  font-family: monospace;
+  font-size: 20px;
+}
