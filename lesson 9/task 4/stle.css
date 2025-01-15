@@ -1,0 +1,59 @@
+* {
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: 2px solid darkgrey;
+  padding: 20px;
+}
+
+a {
+  font-size: 20px;
+  color: #000;
+}
+
+img {
+  height: 210px;
+}
+
+.about {
+  display: flex;
+  gap: 150px;
+}
+
+h3,
+p {
+  font-size: 20px;
+}
+
+.main-box {
+  margin: auto;
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.box {
+  margin: 10px;
+}
+
+ul {
+  padding: 30px;
+}
+
+li {
+  font-size: 20px;
+  margin: 10px;
+}
+
+span,
+p {
+  color: darkgrey;
+}

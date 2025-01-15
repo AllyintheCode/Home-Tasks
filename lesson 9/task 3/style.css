@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.title {
+  padding: 50px;
+  height: 200px;
+  margin: 0 100px;
+  text-align: center;
+  background-color: darkgray;
+}
+
+.links {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  color: #000;
+}
+
+.box1 {
+  margin: auto;
+  width: 90%;
+  border: 1px solid #000;
+}
+
+h3,
+li {
+  list-style-type: none;
+  margin: 10px;
+}
