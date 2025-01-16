@@ -1,0 +1,313 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+
+.navbar {
+  background-color: #B90470;
+  display: flex;
+  width: 1920px;
+  gap: 1000px;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+}
+
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  width: 620px;
+  justify-content: flex-start;
+  gap: 50px;
+}
+
+.about p {
+  color: #fff
+}
+
+.icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 40px;
+}
+
+.navbar2 {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0 0 167px;
+  height: 80px;
+  width: 1118px;
+  background-color: #fff;
+  gap: 40px;
+}
+
+.main-logo {
+  margin: 20px;
+  width: 147px;
+  height: 37px;
+}
+
+.alaqa-btn {
+  margin: 15px;
+  border: none;
+  background-color: #B90470;
+  width: 142px;
+  height: 47px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.links {
+  gap: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  color: #000;
+}
+
+.main-box {
+  height: 738px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./image/image\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  font-size: 100px;
+  width: 832px;
+  height: 122px;
+}
+
+h2 {
+  width: 306px;
+  height: 47px;
+  font-size: 32px;
+}
+
+.p1 {
+  width: 549px;
+  height: 72px;
+  font-size: 16px;
+}
+
+.box1 p,
+h1,
+h2 {
+  color: #fff;
+}
+
+.h-btn {
+  height: 47px;
+  width: 224px;
+  background-color: #B90470;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.box1 {
+  margin-left: 161px;
+  margin-top: 60px;
+}
+
+.main-box2 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.box2 {
+  width: 500px;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 80px;
+}
+
+.main-box2 .section1 {
+  width: 84px;
+  height: 21px;
+  font-size: 14px;
+  color: #B90470;
+}
+
+.main-box2 .section2 {
+  width: 268px;
+  height: 61px;
+  font-size: 50px;
+  color: #343A3E;
+}
+
+.main-box2 .section3 {
+  width: 549px;
+  height: 216px;
+  font-size: 16px;
+  margin-top: 90px;
+}
+
+.box3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.truck-img {
+  width: 1280px;
+  height: 303px;
+  margin: auto;
+}
+
+.main-box3 {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 953px;
+}
+
+.main-box3 p {
+  margin: 30px 0 10px 0;
+  padding: 10px;
+  text-align: center;
+  color: #343A3E;
+}
+
+.main-box4 p {
+  font-size: 14px;
+  height: 21px;
+  width: 66px;
+  color: #B90470;
+}
+
+.main-box4 h3 {
+  width: 349px;
+  height: 61px;
+  font-size: 50px;
+
+}
+
+.main-box4 {
+  margin: 80px;
+}
+
+.container1 {
+  display: flex;
+  gap: 10px;
+  margin: 75px;
+}
+
+.container2 {
+  margin-right: 180px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.box-01,
+.box-02,
+.box-03,
+.box-04,
+.box-05,
+.box-06,
+.box-07 {
+  width: 305px;
+  height: 450px;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.box-04,
+.box-07 {
+  margin-top: -80px;
+}
+
+.box-03,
+.box-06 {
+  margin-top: -55px;
+}
+
+.box-02,
+.box-05 {
+  margin-top: -30px;
+}
+
+.box-01 {
+  margin-top: -5px;
+}
+
+
+.container1 h3,
+.container2 h3 {
+  color: #B90470;
+}
+
+.title-01 p {
+  width: 89px;
+  height: 21px;
+  font-size: 14px;
+  color: #fff;
+}
+
+.title-01 h3 {
+  width: 446px;
+  height: 61px;
+  font-size: 50px;
+  color: #fff;
+}
+
+.box-01-01 h3 {
+  margin: 20px;
+  width: 151px;
+  height: 14px;
+  font-size: 20px;
+}
+
+.box-01-01 p {
+  margin: 10px 20px;
+  width: 306px;
+  height: 168px;
+}
+
+.box-01-01 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.box-01-02,
+.box-01-03,
+.box-01-04 {
+  width: 406px;
+  height: 450px;
+  background-color: #fff;
+}
+
+.main-box5 {
+  background-image: url(./image/Rectangle\ 20.png);
+  background-repeat: no-repeat;
+}
+
+.box-01-02 img {
+  width: 128.17px;
+  height: 96.13px;
+  margin-top: 115px;
+  margin-left: 270px;
+}
+
+
+.box-01-03 img {
+  width: 91px;
+  height: 96px;
+  margin-top: 120px;
+  margin-left: 310px;
+}
+
+.box-01-04 img {
+  width: 160px;
+  height: 96px;
+}
